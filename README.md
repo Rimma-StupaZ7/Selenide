@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/f16pvli4dek0eycc?svg=true)](https://ci.appveyor.com/project/Rimma-StupaZ7/selenide
