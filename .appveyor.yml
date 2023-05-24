@@ -15,4 +15,4 @@ install:
   - java -jar -Dfile.encoding=UTF-8 ./artifacts/app-card-delivery.jar &
 
 build_script:
-  - ./gradlew test  --info -Dselenide.heandless=true  # запускаем тест, флаг --info позволяет выводить больше информации
+  - ./gradlew test  --info #-Dselenide.heandless=true  # запускаем тест, флаг --info позволяет выводить больше информации
